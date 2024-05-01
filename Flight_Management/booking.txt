@@ -1,0 +1,5 @@
+ abc123 Aman Male aman.ali@gmail.com 03363454786 805-H,Karachi 22-2-2022 33805(KHI-ISL) Secondary(10000/=)
+ has12 Hasnain Ali Male Hasnain.ali@gmail.com 2345678900 501-C,Karachi 21-4-2022 33805(KHI-ISL) Economy(8000/=)
+ aeiou Aman Male aman.aly1010@gmail.com 03363454896 805-h,aag 22-4-2022 33805(KHI-ISL) Business(12000/=)
+ asd Hasnain Male hasnainali@gmail.com 0123456789 asefsf 23-5-2022 22201(KHI-LHR) Business(12000/=)
+ aws ad Female asfas 3324 sdqwf sfadf 22201(KHI-LHR) Business(12000/=)
